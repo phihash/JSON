@@ -5,7 +5,11 @@
           "imageUrl": "https://i.imgur.com/ruDXOf3.png",
           "isActive": false,
           "startDateTime": "2025-01-01T00:00:00Z",
-          "endDateTime": "2026-03-31T23:59:59Z"
+          "endDateTime": "2026-03-31T23:59:59Z",
+          "minVersion": "1.0.0",
+          "maxVersion": "2.0.0",
+          "bannerType": "image"
+
       },
       {
           "title": "沙界妖怪芸術祭",
@@ -13,7 +17,11 @@
           "imageUrl": "https://i.imgur.com/D8pEeaY.png",
           "isActive": true,
           "startDateTime": "2025-01-01T00:00:00Z",
-          "endDateTime": "2025-12-07T23:59:59Z"
+          "endDateTime": "2025-12-07T23:59:59Z",
+          "minVersion": "1.0.0",
+          "maxVersion": "2.0.0",
+          "bannerType": "image"
+
       },
       {
           "title": "YOKAI EXPO",
@@ -21,7 +29,11 @@
           "imageUrl": "https://i.imgur.com/0AMm9fy.png",
           "isActive": true,
           "startDateTime": "2025-01-01T00:00:00Z",
-          "endDateTime": "2025-12-02T23:59:59Z"
+          "endDateTime": "2025-12-02T23:59:59Z",
+          "minVersion": "1.0.0",
+          "maxVersion": "2.0.0",
+          "bannerType": "image"
+
       },
       {
           "title": "みちのく妖怪めぐり",
@@ -29,7 +41,10 @@
           "imageUrl": "https://i.imgur.com/OTqNTON.png",
           "isActive": true,
           "startDateTime": "2025-01-01T00:00:00Z",
-          "endDateTime": "2025-12-02T23:59:59Z"
+          "endDateTime": "2025-12-02T23:59:59Z",
+          "minVersion": "1.0.0",
+          "maxVersion": "2.0.0",
+          "bannerType": "image"
       }
   ]
 
