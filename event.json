@@ -22,6 +22,14 @@
           "isActive": true,
           "startDateTime": "2025-01-01T00:00:00Z",
           "endDateTime": "2025-12-02T23:59:59Z"
+      },
+      {
+          "title": "みちのく妖怪めぐり",
+          "link": "https://michinoku-park.info/youkai/",
+          "imageUrl": "https://i.imgur.com/OTqNTON.png",
+          "isActive": true,
+          "startDateTime": "2025-01-01T00:00:00Z",
+          "endDateTime": "2025-12-02T23:59:59Z"
       }
   ]
 
