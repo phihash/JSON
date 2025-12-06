@@ -45,6 +45,18 @@
           "minVersion": "1.0.0",
           "maxVersion": "4.0.0",
           "bannerType": "image"
+      },
+      {
+          "title": "動き出す妖怪展",
+          "link": "https://www.yokaiimmersive.com/",
+          "imageUrl": "https://i.imgur.com/MMrTk6D.png",
+          "isActive": true,
+          "startDateTime": "2025-11-21T00:00:00Z",
+          "endDateTime": "2026-09-23T23:59:59Z",
+          "minVersion": "1.0.0",
+          "maxVersion": "4.0.0",
+          "bannerType": "image"
+
       }
   ]
 
