@@ -12,12 +12,12 @@
 
       },
       {
-          "title": "沙界妖怪芸術祭",
-          "link": "https://sakai-yokai.com/",
+          "title": "動き出す妖怪展 TOKYO",
+          "link": "https://www.yokaiimmersive.com/tokyo/",
           "imageUrl": "https://i.imgur.com/D8pEeaY.png",
           "isActive": true,
-          "startDateTime": "2025-01-01T00:00:00Z",
-          "endDateTime": "2025-12-07T23:59:59Z",
+          "startDateTime": "2026-03-27T00:00:00Z",
+          "endDateTime": "2026-06-28T23:59:59Z",
           "minVersion": "1.0.0",
           "maxVersion": "4.0.0",
           "bannerType": "image"
