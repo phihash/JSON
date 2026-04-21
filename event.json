@@ -1,15 +1,14 @@
   [
       {
-          "title": "妖気なもののけLIFE",
-          "link": "https://miyoshi-mononoke.jp/",
+          "title": "妖怪ドコドンまつり",
+          "link": "https://kpp-s.net/event/2026_y_doko.html",
           "imageUrl": "https://i.imgur.com/ruDXOf3.png",
           "isActive": true,
-          "startDateTime": "2025-11-21T00:00:00Z",
-          "endDateTime": "2026-03-10T23:59:59Z",
+          "startDateTime": "2026-05-03T11:00:00Z",
+          "endDateTime": "2026-05-03T18:59:59Z",
           "minVersion": "1.0.0",
           "maxVersion": "4.0.0",
           "bannerType": "image"
-
       },
       {
           "title": "動き出す妖怪展 TOKYO",
