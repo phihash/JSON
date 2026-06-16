@@ -1,42 +1,50 @@
-[                                                                                                                                                                                                            
+ [                                                                                                                                                                                                            
       {                                                                                                                                                                                                        
           "title": "妖怪ドコドンまつり",                                                                                                                                                                       
           "link": "https://kpp-s.net/event/2026_y_doko.html",                                                                                                                                                  
           "location": "東京都",                                                                                                                                                                                
-          "isActive": true,
+          "isActive": true,                                                                                                                                                                                    
           "startDateTime": "2026-05-03T11:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-05-03T18:59:59Z"
-      },                                                                                                                                                                                                       
-      {           
+          "endDateTime": "2026-05-03T18:59:59Z"                                                                                                                                                                
+      },
+      {                                                                                                                                                                                                        
           "title": "YOKAI EXPO",
           "link": "https://www.yokaiexpo.com/",                                                                                                                                                                
           "location": "香川県",
           "isActive": true,                                                                                                                                                                                    
           "startDateTime": "2026-02-22T00:00:00Z",
-          "endDateTime": "2026-02-22T23:59:59Z"
-      },                                                                                                                                                                                                       
-      {
-          "title": "みちのく妖怪めぐり",                                                                                                                                                                       
-          "link": "https://michinoku-park.info/youkai/",
+          "endDateTime": "2026-02-22T23:59:59Z"                                                                                                                                                                
+      },
+      {                                                                                                                                                                                                        
+          "title": "みちのく妖怪めぐり",
+          "link": "https://michinoku-park.info/youkai/",                                                                                                                                                       
           "location": "宮城県",
           "isActive": true,                                                                                                                                                                                    
           "startDateTime": "2025-11-22T00:00:00Z",
           "endDateTime": "2026-02-23T23:59:59Z"                                                                                                                                                                
-      },          
+      },                                                                                                                                                                                                       
       {
           "title": "動き出す妖怪展 TOKYO",                                                                                                                                                                     
           "link": "https://www.yokaiimmersive.com/tokyo/",
           "location": "東京都",                                                                                                                                                                                
           "isActive": true,
-          "startDateTime": "2026-03-27T00:00:00Z",
-          "endDateTime": "2026-06-28T23:59:59Z"                                                                                                                                                                
-      },
-      {                                                                                                                                                                                                        
-          "title": "水木しげるの妖怪 百鬼夜行展",
+          "startDateTime": "2026-03-27T00:00:00Z",                                                                                                                                                             
+          "endDateTime": "2026-06-28T23:59:59Z"
+      },                                                                                                                                                                                                       
+      {
+          "title": "水木しげるの妖怪 百鬼夜行展",                                                                                                                                                              
           "link": "https://shizubi.jp/exhibition/20260404_mizukishigeru/260404_01.php",                                                                                                                        
-          "location": "静岡県",
+          "location": "静岡県",                                                                                                                                                                                
           "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-04-04T00:00:00Z",
-          "endDateTime": "2026-06-14T23:59:59Z"                                                                                                                                                                
-      }
-  ]    
+          "startDateTime": "2026-04-04T00:00:00Z",                                                                                                                                                             
+          "endDateTime": "2026-06-14T23:59:59Z"
+      },                                                                                                                                                                                                       
+      {
+          "title": "動き出す妖怪展 KAGOSHIMA",                                                                                                                                                                 
+          "link": "https://www.yokaiimmersive.com/kagoshima/",
+          "location": "鹿児島県",                                                                                                                                                                              
+          "isActive": true,
+          "startDateTime": "2026-07-03T00:00:00Z",                                                                                                                                                             
+          "endDateTime": "2026-08-31T23:59:59Z"
+      }                                                                                                                                                                                                        
+  ]
