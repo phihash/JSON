@@ -24,14 +24,14 @@
           "endDateTime": "2026-06-28T23:59:59Z"
       },                                                                                                                                                                                                       
       {
-          "title": "水木しげるの妖怪 百鬼夜行展",                                                                                                                                                              
-          "link": "https://shizubi.jp/exhibition/20260404_mizukishigeru/260404_01.php",                                                                                                                        
-          "location": "静岡県",                                                                                                                                                                                
+          "title": "妖怪 ミュージアム",                                                                                                                                                              
+          "link": "https://www.city.tochigi-sakura.lg.jp/event/000064/p005151.html",                                                                                                                        
+          "location": "栃木県",                                                                                                                                                                                
           "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-04-04T00:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-06-14T23:59:59Z"
+          "startDateTime": "2026-06-27T00:00:00Z",                                                                                                                                                             
+          "endDateTime": "2026-08-23T23:59:59Z"
       }, 
-  {                                                                                                                                                                                                        
+      {                                                                                                                                                                                                        
           "title": "けいはんな記念公園　妖怪園",                                                                                                                                                                       
           "link": "https://keihanna-park.net/event/yokai-en-2026/",                                                                                                                                                  
           "location": "京都",                                                                                                                                                                                
