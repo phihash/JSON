@@ -16,12 +16,12 @@
           "endDateTime": "2026-02-22T23:59:59Z"                                                                                                                                                                
       },
       {                                                                                                                                                                                                        
-          "title": "みちのく妖怪めぐり",
-          "link": "https://michinoku-park.info/youkai/",                                                                                                                                                       
-          "location": "宮城県",
+          "title": "妖怪展",
+          "link": "https://www.joyogeibun.or.jp/siryokan/",                                                                                                                                                       
+          "location": "茨城県",
           "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2025-11-22T00:00:00Z",
-          "endDateTime": "2026-02-23T23:59:59Z"                                                                                                                                                                
+          "startDateTime": "2026-06-09T00:00:00Z",
+          "endDateTime": "2026-08-29T23:59:59Z"                                                                                                                                                                
       },                                                                                                                                                                                                       
       {
           "title": "動き出す妖怪展 TOKYO",                                                                                                                                                                     
