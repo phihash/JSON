@@ -1,11 +1,11 @@
  [     
-      {                                                                                                                                                                                                        
-          "title": "YOKAI EXPO",
-          "link": "https://www.yokaiexpo.com/",                                                                                                                                                                
-          "location": "香川県",
+  　　{                                                                                                                                                                                                        
+          "title": "水木しげるの妖怪 百鬼夜行展",
+          "link": "https://www.yamagata-art-museum.or.jp/exhibition/6490.html",                                                                                                                                                                
+          "location": "山形県",
           "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-02-22T00:00:00Z",
-          "endDateTime": "2026-02-22T23:59:59Z"                                                                                                                                                                
+          "startDateTime": "2026-07-10T00:00:00Z",
+          "endDateTime": "2026-08-22T23:59:59Z"                                                                                                                                                                
       },
       {                                                                                                                                                                                                        
           "title": "妖怪展",
@@ -34,7 +34,7 @@
       {                                                                                                                                                                                                        
           "title": "けいはんな記念公園　妖怪園",                                                                                                                                                                       
           "link": "https://keihanna-park.net/event/yokai-en-2026/",                                                                                                                                                  
-          "location": "京都",                                                                                                                                                                                
+          "location": "京都府",                                                                                                                                                                                
           "isActive": true,                                                                                                                                                                                    
           "startDateTime": "2026-08-22T11:00:00Z",                                                                                                                                                             
           "endDateTime": "2026-08-23T18:59:59Z"                                                                                                                                                                
