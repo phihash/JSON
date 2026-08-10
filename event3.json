@@ -54,5 +54,13 @@
           "isActive": true,
           "startDateTime": "2026-07-03T00:00:00Z",                                                                                                                                                             
           "endDateTime": "2026-08-31T23:59:59Z"
-      }                                                                                                                                                                                                        
+      },
+    {
+        "title": "「香川県民の日」創設記念 おとろしいもん―「こわい」をめぐる歴史と美術",
+        "link": "https://www.kmuseum.pref.kagawa.lg.jp/exhibition-list/post-13945/",
+        "location": "香川県",
+        "isActive": true,
+        "startDateTime": "2026-08-01T00:00:00Z",
+        "endDateTime": "2026-10-04T23:59:59Z"
+    }
   ]
