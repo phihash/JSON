@@ -1,60 +1,20 @@
- [     
-   {                                                                                                                                                                                                        
-          "title": "水木しげるの妖怪 百鬼夜行展",
-          "link": "https://www.yamagata-art-museum.or.jp/exhibition/6490.html",                                                                                                                                                                
-          "location": "山形県",
-          "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-07-10T00:00:00Z",
-          "endDateTime": "2026-08-22T23:59:59Z"                                                                                                                                                                
-      },
-  {                                                                                                                                                                                                        
-          "title": "甦る！！令和の比叡山お化け屋敷2026",
-          "link": "https://www.daimaru.co.jp/kyoto/topics/hieizan_obakeyashiki2026.html",                                                                                                                                                                
-          "location": "京都府",
-          "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-07-19T00:00:00Z",
-          "endDateTime": "2026-08-31T23:59:59Z"                                                                                                                                                                
-      },
-      {                                                                                                                                                                                                        
-          "title": "妖怪展",
-          "link": "https://www.joyogeibun.or.jp/siryokan/",                                                                                                                                                       
-          "location": "茨城県",
-          "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-06-09T00:00:00Z",
-          "endDateTime": "2026-08-29T23:59:59Z"                                                                                                                                                                
-      },                                                                                                                                                                                                       
-      {
-          "title": "動き出す妖怪展 TOKYO",                                                                                                                                                                     
-          "link": "https://www.yokaiimmersive.com/tokyo/",
-          "location": "東京都",                                                                                                                                                                                
-          "isActive": true,
-          "startDateTime": "2026-03-27T00:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-06-28T23:59:59Z"
-      },                                                                                                                                                                                                       
-      {
-          "title": "妖怪 ミュージアム",                                                                                                                                                              
-          "link": "https://www.city.tochigi-sakura.lg.jp/event/000064/p005151.html",                                                                                                                        
-          "location": "栃木県",                                                                                                                                                                                
-          "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-06-27T00:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-08-23T23:59:59Z"
-      }, 
-      {                                                                                                                                                                                                        
-          "title": "けいはんな記念公園　妖怪園",                                                                                                                                                                       
-          "link": "https://keihanna-park.net/event/yokai-en-2026/",                                                                                                                                                  
-          "location": "京都府",                                                                                                                                                                                
-          "isActive": true,                                                                                                                                                                                    
-          "startDateTime": "2026-08-22T11:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-08-23T18:59:59Z"                                                                                                                                                                
-      },
-      {
-          "title": "動き出す妖怪展 KAGOSHIMA",                                                                                                                                                                 
-          "link": "https://www.yokaiimmersive.com/kagoshima/",
-          "location": "鹿児島県",                                                                                                                                                                              
-          "isActive": true,
-          "startDateTime": "2026-07-03T00:00:00Z",                                                                                                                                                             
-          "endDateTime": "2026-08-31T23:59:59Z"
-      },
+[
+    {
+        "title": "東京百鬼夜行 2026",
+        "link": "https://koenjifes.jp/2026/hyakkiyako/",
+        "location": "東京都",
+        "isActive": true,
+        "startDateTime": "2026-10-24T00:00:00Z",
+        "endDateTime": "2026-10-24T23:59:59Z"
+    },
+    {
+        "title": "掛川百鬼夜行 第五夜",
+        "link": "https://kakegawa-100kiyako.studio.site/",
+        "location": "静岡県",
+        "isActive": true,
+        "startDateTime": "2026-10-31T00:00:00Z",
+        "endDateTime": "2026-10-31T23:59:59Z"
+    },
     {
         "title": "「香川県民の日」創設記念 おとろしいもん―「こわい」をめぐる歴史と美術",
         "link": "https://www.kmuseum.pref.kagawa.lg.jp/exhibition-list/post-13945/",
@@ -70,5 +30,13 @@
         "isActive": true,
         "startDateTime": "2026-09-12T00:00:00Z",
         "endDateTime": "2026-11-29T23:59:59Z"
+    },
+    {
+        "title": "第11回 北の妖怪展2026",
+        "link": "https://youkaiten.okoshi-yasu.net/",
+        "location": "北海道",
+        "isActive": true,
+        "startDateTime": "2026-12-08T00:00:00Z",
+        "endDateTime": "2026-12-13T23:59:59Z"
     }
-  ]
+]
